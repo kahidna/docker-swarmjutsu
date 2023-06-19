@@ -1,2 +1,2 @@
 # docker-swarmjutsu
-mastering docker swarmjutsu by scripts
+mastering docker swarm by scripts
